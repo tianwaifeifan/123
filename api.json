@@ -61,20 +61,6 @@
      "jar":"./lib//jar.php",
      "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"},  
     {
-      "key": "玩偶",
-      "name": "玩偶表哥┃4K",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt"
-      },
-      "timeout": 25
-    },
-    {
       "key": "Fangniu4k",
       "name": "放牛┃4K",
       "type": 3,
