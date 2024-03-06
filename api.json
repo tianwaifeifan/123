@@ -27,15 +27,6 @@
       "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"
     },
   {
-   "key": "酷狗",
-   "name": "酷狗┃音乐",
-   "type": 3,
-   "api": "csp_Kugou",
-   "searchable": 1,
-   "changeable": 0,
-    "jar":" ./lib/pg.jar"
-  },
-  {
       "key": "Yinyuetai",
       "name": "音悦┃MV一",
       "type": 3,
